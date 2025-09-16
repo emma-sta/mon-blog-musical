@@ -2,8 +2,8 @@
   body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom, #232526, #414345);
-    color: #f5f5f5;
+    background: linear-gradient(to bottom right, #ff9a9e, #fad0c4);
+    color: #222;
   }
 </style>
 # Ambiance musicale
