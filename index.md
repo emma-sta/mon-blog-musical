@@ -7,7 +7,6 @@
   }
 </style>
 
-<div style="text-align: center;">
 # Ambiance musicale
 
 [Accueil](index.md) | [Chill](chill.md) | [Dynamique](dynamique.md) | [Festif](festive.md)
