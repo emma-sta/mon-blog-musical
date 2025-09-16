@@ -1,3 +1,12 @@
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom right, #ff9a9e, #fad0c4);
+    color: #222;
+  }
+</style>
+
 [Accueil](index.md) | [Chill](chill.md) | [Dynamique](dynamique.md) | [Festif](festive.md)
 
 # Festive / Conviviale 🎉
