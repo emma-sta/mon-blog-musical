@@ -1,3 +1,11 @@
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #232526, #414345);
+    color: #f5f5f5;
+  }
+</style>
 # Ambiance musicale
 
 [Accueil](index.md) | [Chill](chill.md) | [Dynamique](dynamique.md) | [Festif](festive.md)
