@@ -2,8 +2,8 @@
   body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom, #2e003e, #0d0d2b);
-    color: #f5f5f5;
+    background: #000000; /* noir pur */
+    color: #f5f5f5; /* texte clair pour bien contraster */
   }
 </style>
 
