@@ -2,7 +2,7 @@
   body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to top right, #232526, #414345);
+    background: linear-gradient(to bottom, #2e003e, #0d0d2b);
     color: #f5f5f5;
   }
 </style>
@@ -30,7 +30,7 @@ Des morceaux entraînants et des albums qui donnent envie de sourire et de parta
 ---
 
 ## Beggin' - Madcon
-![Beggin' - Madcon](image/beggin.jpg)
+![Beggin' - Madcon](image/beggin.jpeg)
 
 >Avec son mélange de soul vintage et d’énergie pop moderne, Beggin’ est un titre qui a su traverser le temps. Tout le monde connaît son refrain, et c’est précisément ce qui en fait un classique des moments collectifs. Il ne demande rien de plus qu’un groupe de personnes prêtes à chanter ensemble, sans réfléchir. Sa force est de rester simple, immédiat, festif, mais toujours efficace.
 
