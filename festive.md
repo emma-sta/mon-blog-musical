@@ -16,14 +16,14 @@ ou pour créer une atmosphère conviviale et joyeuse.
 Des morceaux entraînants et des albums qui donnent envie de sourire et de partager de la bonne humeur.
 
 ## Album : "Nom de l'album" - Artiste
-![S&M - Rihanna](images/s&m.jpg)
+![S&M - Rihanna](image/s&m.jpg)
 
 Courte description sur l’album et pourquoi il est parfait pour une ambiance festive.
 
 ---
 
 ## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](images/just dance.jpg)
+![Just Dance - Lady Gaga](image/justdance.jpg)
 
 Petit commentaire sur le morceau et l’atmosphère qu’il crée.
 
