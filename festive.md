@@ -27,4 +27,27 @@ Courte description sur l’album et pourquoi il est parfait pour une ambiance fe
 
 Petit commentaire sur le morceau et l’atmosphère qu’il crée.
 
+---
+
+## Titre : "Nom du titre" - Artiste
+![Just Dance - Lady Gaga](image/beggin.jpg)
+
+Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+
+---
+
+## Titre : "Nom du titre" - Artiste
+![Just Dance - Lady Gaga](image/bep.jpg)
+
+Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+
+---
+
+## Titre : "Nom du titre" - Artiste
+![Just Dance - Lady Gaga](image/calvinharris.jpg)
+
+Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+
+
+
 [⬅ Retour à l’accueil](index.md)
