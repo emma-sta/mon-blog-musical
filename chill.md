@@ -15,16 +15,44 @@ Cette ambiance regroupe mes morceaux et albums préférés pour me détendre
 à la maison, lire un livre, faire un long trajet en train, ou simplement profiter d’un moment tranquille. 
 Des mélodies douces et relaxantes qui apaisent l’esprit et créent une atmosphère calme.
 
-## Album : "Nom de l'album" - Artiste
-![Nom de l'album](images/nom-album.jpg)
+## Titre : "Nom du titre" - Artiste
+![Just Dance - Lady Gaga](image/eilish.jpg)
 
-Courte description : pourquoi tu aimes cet album et dans quel contexte il est idéal.
+Petit commentaire sur le morceau et l’atmosphère qu’il crée.
 
 ---
 
 ## Titre : "Nom du titre" - Artiste
-![Nom du titre](images/nom-titre.jpg)
+![Just Dance - Lady Gaga](image/dali.jpg)
 
-Petit commentaire sur le morceau et l’ambiance qu’il crée.
+Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+
+---
+
+## Titre : "Nom du titre" - Artiste
+![Just Dance - Lady Gaga](image/sza.jpg)
+
+Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+
+---
+
+## Titre : "Nom du titre" - Artiste
+![Just Dance - Lady Gaga](image/gambino.jpg)
+
+Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+
+---
+
+## Titre : "Nom du titre" - Artiste
+![Just Dance - Lady Gaga](image/cas.jpg)
+
+Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+
+---
+
+## Titre : "Nom du titre" - Artiste
+![Just Dance - Lady Gaga](image/frankocean.jpg)
+
+Petit commentaire sur le morceau et l’atmosphère qu’il crée.
 
 [⬅ Retour à l’accueil](index.md)
