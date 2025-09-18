@@ -9,10 +9,10 @@
 
 <style>
   img {
-    max-width: 200px;  /* réduit la taille max */
+    max-width: 150px;  /* taille réduite */
     height: auto;       /* garde les proportions */
     display: block;     
-    margin: 10px auto;  
+    margin: 10px auto;  /* centrage horizontal */
   }
 </style>
 
