@@ -7,6 +7,15 @@
   }
 </style>
 
+<style>
+  img {
+    max-width: 300px;  /* taille maximale */
+    height: auto;       /* garde les proportions */
+    display: block;     /* permet de centrer si on ajoute margin auto */
+    margin: 10px auto;  /* espace + centrage horizontal */
+  }
+</style>
+
 [Accueil](index.md) | [Chill](chill.md) | [Dynamique](dynamique.md) | [Festif](festive.md)
 
 # Festive & Conviviale 🎉
@@ -16,13 +25,6 @@ ou pour créer une atmosphère conviviale et joyeuse.
 Des morceaux entraînants et des albums qui donnent envie de sourire et de partager de la bonne humeur.
 
 ## S&M - Rihanna
-
-<style>
-  img {
-    max-width: 300px;  /* ajuste la taille max */
-    height: auto;       /* garde les proportions */
-  }
-</style>
 ![S&M - Rihanna](image/s&m.jpg)
 
 >Avec S&M, Rihanna livre un titre qui ne laisse personne indifférent. L’énergie est brute, assumée, et pensée pour être vécue fort, de préférence à volume maximum. En soirée, c’est typiquement le genre de morceau qui ne peut pas rester en arrière-plan : il attire tout de suite l’attention et transforme l’atmosphère. On chante, on danse, on joue le jeu. Plus qu’un simple morceau pop, c’est un déclencheur qui marque un moment précis, celui où la soirée bascule dans quelque chose de plus intense.
