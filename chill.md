@@ -44,10 +44,19 @@ Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble rac
 
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/sza.jpg)
+## SOS – SZA
+![SOS – SZA](image/sza.jpg)
 
-Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+*SOS* est un album de R&B moderne et intimiste, où la voix de SZA est au centre et enveloppe chaque morceau.  
+L’album explore l’amour, la vulnérabilité, le doute et la quête de soi, avec une honnêteté brute et touchante.  
+La production reste légère et aérienne, permettant à la voix de se déployer pleinement et créant une intimité qui rapproche l’auditeur.  
+Chaque morceau navigue entre douceur et tension, introspection et passages plus rythmés, formant un ensemble cohérent et immersif.
+
+Ce que j’aime dans cet album, c’est la capacité de SZA à transmettre des émotions complexes avec une fluidité incroyable : on ressent à la fois la fragilité, la force et la sensibilité de chaque morceau.
+
+**Mes morceaux préférés :**  
+- **Snooze** → murmure confiant et délicat, qui enveloppe tout en douceur  
+- **Kill Bill** → intensité et tension maîtrisées, avec une voix qui porte à la fois colère et vulnérabilité
 
 ---
 
