@@ -18,8 +18,6 @@ C’est le moment parfait pour se laisser porter par des sons doux, introspectif
 ## Hit Me Hard and Soft – Billie Eilish
 ![Hit Me Hard and Soft – Billie Eilish](image/eilish.jpg)
 
-## Hit Me Hard and Soft – Billie Eilish
-
 Cet album explore une palette de sons très contrastée, allant de morceaux intimistes et minimalistes à des passages plus puissants et émotionnellement chargés.  
 Les thèmes principaux tournent autour de l’introspection, des relations complexes et de l’expression des émotions brutes.  
 
@@ -31,10 +29,18 @@ Ce qui me plaît particulièrement chez Billie, c’est **la douceur de sa voix*
 
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/dali.jpg)
+## Magazine – Dali
+![Magazine – Dali](image/dali.jpg)
 
-Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+*Magazine* est un album aux textures riches et planantes, mélangeant influences électroniques et expérimentales.  
+L’ambiance générale est flottante et hypnotique, avec des couches sonores qui se superposent pour créer un univers immersif.  
+Les thèmes tournent autour de l’évasion, de l’imaginaire et de la rêverie, avec un sentiment constant de mouvement et de liberté intérieure.  
+
+Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble raconter une histoire sans paroles parfois, ou transporter dans un monde presque cinématographique, où chaque son trouve sa place dans l’espace.  
+
+**À écouter en priorité** :  
+- **Obsession Nonchalante** → atmosphère planante et captivante, idéale pour se laisser flotter  
+- **Mes Rêves** → mélodies douces et textures hypnotiques, parfaites pour rêver un peu
 
 ---
 
