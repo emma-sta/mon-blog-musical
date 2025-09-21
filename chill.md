@@ -93,9 +93,19 @@ Petit commentaire sur le morceau et l’atmosphère qu’il crée.
 
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/frankocean.jpg)
+## Blonde – Frank Ocean
+![Blonde – Frank Ocean](image/frankocean.jpg)
 
-Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+*Blonde* est un album introspectif et aérien, où chaque morceau semble flotter dans un espace émotionnel vaste et délicat.  
+L’album explore des thèmes comme l’amour, la solitude, la mémoire et la construction de soi, souvent à travers des récits fragmentés et poétiques.  
+La production est subtile et minimaliste, laissant respirer les voix et les émotions, ce qui rend l’écoute à la fois intime et profondément immersive.  
+Chaque chanson semble créer une atmosphère unique, et l’ensemble forme un voyage cohérent dans la sensibilité et la mélancolie de Frank Ocean.
+
+Ce que j’aime dans *Blonde*, c’est cette capacité à mélanger fragilité et élégance, à raconter des histoires qui résonnent longtemps après l’écoute, avec des arrangements qui donnent envie de se perdre dans chaque détail.
+
+**Mes morceaux préférés :**  
+- **Ivy** → une mélodie poignante, douce et nostalgique, qui capture parfaitement l’introspection de l’album  
+- **Pink + White** → aérien et lumineux, avec des harmonies qui flottent et apportent une chaleur subtile  
+- **White Ferrari** → minimaliste et contemplatif, une vraie immersion dans l’intimité de l’album
 
 [⬅ Retour à l’accueil](index.md)
