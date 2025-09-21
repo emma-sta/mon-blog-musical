@@ -70,10 +70,19 @@ Ce que j’aime dans cet album, c’est la capacité de SZA à transmettre des �
 
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/gambino.jpg)
+## Camp – Childish Gambino
+![Camp – Childish Gambino](image/gambino.jpg)
 
-Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+*Camp* est un album à la croisée du hip-hop, du R&B et de la soul, qui mélange énergie et introspection.  
+Les morceaux alternent entre passages rythmés et moments plus calmes, avec des textes souvent narratifs, parfois humoristiques, parfois sérieux.  
+L’album explore des thèmes liés à la construction de soi, aux relations et aux observations sur le monde qui l’entoure, tout en gardant une légèreté qui le rend accessible et captivant.  
+La production est variée mais cohérente, et l’ensemble dégage une sensation de spontanéité et de créativité maîtrisée.
+
+Ce que j’aime particulièrement dans *Camp*, c’est la capacité de Childish Gambino à créer un univers à la fois personnel et universel, où chaque morceau raconte quelque chose, tout en gardant un côté ludique et surprenant.
+
+**Mon morceau préféré :**  
+- **Les** → un mélange de groove et de réflexion, où la voix et les rythmes s’entrelacent parfaitement, donnant à ce titre une énergie à la fois douce et captivante
+
 
 ---
 
