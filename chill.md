@@ -9,11 +9,11 @@
 
 [Accueil](index.md) | [Chill](chill.md) | [Dynamique](dynamique.md) | [Festif](festive.md)
 
-# Chill / Relax 🛋️
+# 🌙 Chill
 
-Cette ambiance regroupe mes morceaux et albums préférés pour me détendre 
-à la maison, lire un livre, faire un long trajet en train, ou simplement profiter d’un moment tranquille. 
-Des mélodies douces et relaxantes qui apaisent l’esprit et créent une atmosphère calme.
+Imagine-toi un jour de pluie, confortablement installé·e sur ton canapé, un thé chaud à portée de main.  
+Les rideaux sont tirés, dehors le monde va doucement, et à l’intérieur, le temps semble ralentir.  
+C’est dans ces moments-là que j’écoute ces morceaux : pour souffler, se concentrer ou juste se laisser flotter.
 
 ## Titre : "Nom du titre" - Artiste
 ![Just Dance - Lady Gaga](image/eilish.jpg)
