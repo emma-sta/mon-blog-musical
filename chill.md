@@ -86,10 +86,20 @@ Ce que j’aime particulièrement dans *Camp*, c’est la capacité de Childish 
 
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/cas.png)
+## Cigarettes After Sex – Cigarettes After Sex
+![Cigarettes After Sex – Cigarettes After Sex](image/cas.png)
 
-Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+L’album éponyme de *Cigarettes After Sex* est un voyage doux et planant, où chaque morceau semble envelopper l’auditeur dans une atmosphère de rêve nocturne.  
+Les sons sont minimalistes et vaporeux, avec des guitares délicates et une production intimiste qui met la voix fragile au premier plan.  
+Les thèmes principaux tournent autour de l’amour, de la nostalgie et des émotions mélancoliques, avec cette capacité unique à capturer des moments intimes et suspendus dans le temps.  
+L’ambiance générale est lente et contemplative, parfaite pour les instants où l’on veut se laisser flotter ou réfléchir tranquillement.
+
+Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble raconter une histoire personnelle mais universelle, avec une voix qui devient presque un instrument supplémentaire, douce et hypnotique.
+
+**Mes morceaux préférés :**  
+- **K.** → atmosphère délicate et rêveuse, qui enveloppe tout en subtilité  
+- **Sweet** → mélodie flottante et mélancolique, un vrai cocon sonore
+
 
 ---
 
