@@ -7,6 +7,15 @@
   }
 </style>
 
+<style>
+  img {
+    max-width: 200px;  /* Limite la largeur des images */
+    height: auto;      /* Maintient les proportions */
+    display: block;    /* Affichage en bloc */
+    margin: 10px auto; /* Centrage horizontal */
+  }
+</style>
+
 [Accueil](index.md) | [Chill](chill.md) | [Dynamique](dynamique.md) | [Festif](festive.md)
 
 # Dynamique / Motivante ⚡
