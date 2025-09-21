@@ -11,9 +11,9 @@
 
 # 🌙 Chill
 
-Imagine-toi un jour de pluie, confortablement installé·e sur ton canapé, un thé chaud à portée de main.  
-Les rideaux sont tirés, dehors le monde va doucement, et à l’intérieur, le temps semble ralentir.  
-C’est dans ces moments-là que j’écoute ces morceaux : pour souffler, se concentrer ou juste se laisser flotter.
+Imagine-toi un après-midi tranquille, allongé·e sur ton canapé ou installé·e près de la fenêtre, un café ou un thé à la main.  
+Le temps semble s’étirer, dehors le monde continue sa course mais à l’intérieur tout est calme.  
+C’est le moment parfait pour se laisser porter par des sons doux, introspectifs, qui invitent à ralentir et à savourer l’instant.
 
 ## Titre : "Nom du titre" - Artiste
 ![Just Dance - Lady Gaga](image/eilish.jpg)
