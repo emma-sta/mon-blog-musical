@@ -7,19 +7,43 @@
   }
 </style>
 
-# Ambiance musicale
+# Mon blog musical 🎶
 
 [Accueil](index.md) | [Chill](chill.md) | [Dynamique](dynamique.md) | [Festif](festive.md)
 
-# Bienvenue sur mon blog musical 🎶
+Ici, je range mes écoutes du moment par ambiances.  
+Trois moods principaux :  
 
-Salut et bienvenue ! Ici, je partage mes morceaux et albums préférés 
-classés par ambiance musicale. Que tu veuilles te détendre, te motiver 
-ou profiter d’une ambiance conviviale, tu trouveras forcément quelque chose 
-qui te correspond.
+- 🌙 [Chill](chill.md) – pour ralentir, se poser  
+- ⚡ [Dynamique](dynamique.md) – pour se booster, garder le rythme  
+- 🎉 [Festive](festive.md) – pour partager des moments et mettre l’ambiance  
 
-Explore les ambiances :
+Chaque section propose une sélection de morceaux avec quelques mots pour situer la vibe.  
+Pas de longs articles : juste des playlists commentées, rapides à lire et faciles à écouter.  
 
-- [Chill / Relax](chill.md) – Pour les moments calmes et reposants.  
-- [Dynamique / Motivante](dynamique.md) – Pour se réveiller, se mettre en mouvement et prendre de l’énergie.  
-- [Festive / Conviviale](festive.md) – Pour profiter de bons moments entre amis et mettre l’ambiance.
+---
+
+## 👤 À propos
+
+Je m’appelle **Emma**. J’écoute de tout, mais j’ai un faible pour les ambiances qui collent à l’humeur d'un moment.  
+Ce blog, c’est simplement un moyen de garder une trace de mes coups de cœur et, peut-être, de te faire découvrir quelques pépites.  
+Je note ce que j’aime, ce qui m’inspire, et parfois pourquoi ça marche pour moi — libre à toi de piocher, écouter, ou juste parcourir.
+
+---
+
+## 🎧 Comment ça marche
+
+- Clique sur un mood pour découvrir mes morceaux préférés.  
+- Chaque morceau ou album est accompagné d’une petite note perso pour situer l’ambiance.  
+- Si tu veux écouter, tu trouveras les liens Spotify directement dans la sélection.  
+
+> Prêt·e à découvrir tes nouvelles chansons préférées ? Clique sur un mood et laisse-toi guider.
+
+---
+
+## 🌟 Bonus
+
+Tu peux revenir régulièrement : je mets à jour mes sélections selon mes découvertes du moment.  
+Parfois, tu trouveras des mini-playlists, des découvertes récentes, ou juste des sons qui me restent en tête.  
+
+Bonne écoute ! 🎶
