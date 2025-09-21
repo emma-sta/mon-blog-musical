@@ -11,9 +11,11 @@
 
 # 🌙 Chill
 
+
 Imagine-toi un après-midi tranquille, allongé·e sur ton canapé ou installé·e près de la fenêtre, un café ou un thé à la main.  
 Le temps semble s’étirer, dehors le monde continue sa course mais à l’intérieur tout est calme.  
 C’est le moment parfait pour se laisser porter par des sons doux, introspectifs, qui invitent à ralentir et à savourer l’instant.
+
 
 ## Hit Me Hard and Soft – Billie Eilish
 ![Hit Me Hard and Soft – Billie Eilish](image/eilish.jpg)
@@ -27,7 +29,11 @@ Ce qui me plaît particulièrement chez Billie, c’est **la douceur de sa voix*
 - **Birds of a Feather** → doux, aérien, parfait pour se laisser emporter par la voix et l’atmosphère  
 - **Wildflower** → plus intense, avec des passages émotionnels puissants qui contrastent avec la délicatesse de sa voix
 
+
+
 ---
+
+
 
 ## Magazine – Dali
 ![Magazine – Dali](image/dali.jpg)
@@ -42,7 +48,11 @@ Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble rac
 - **Obsession Nonchalante** → atmosphère planante et captivante, idéale pour se laisser flotter  
 - **Mes Rêves** → mélodies douces et textures hypnotiques, parfaites pour rêver un peu
 
+
+
 ---
+
+
 
 ## SOS – SZA
 ![SOS – SZA](image/sza.jpg)
