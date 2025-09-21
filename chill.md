@@ -87,7 +87,7 @@ Ce que j’aime particulièrement dans *Camp*, c’est la capacité de Childish 
 ---
 
 ## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/cas.jpg)
+![Just Dance - Lady Gaga](image/cas.png)
 
 Petit commentaire sur le morceau et l’atmosphère qu’il crée.
 
