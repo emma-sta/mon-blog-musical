@@ -55,10 +55,20 @@ Ce que j’aime particulièrement ici, c’est la façon dont Kendrick réussit 
 
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/mac.jpg)
+## K.I.D.S – Mac Miller
+![K.I.D.S – Mac Miller](image/mac.jpg)
 
-Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+*K.I.D.S* est un album lumineux et frais, qui capture parfaitement l’insouciance et l’énergie de la jeunesse.  
+La production est simple mais efficace, entre hip-hop old-school et beats mélodiques, laissant à la voix de Mac Miller le soin de poser ses textes avec naturel et fluidité.  
+Les thèmes tournent autour de la fête, de l’amitié, des premières expériences et de la vie quotidienne, mais toujours avec une légèreté et un humour qui rendent l’écoute agréable et entraînante.  
+
+Ce que j’aime dans cet album, c’est sa capacité à transmettre de la bonne humeur sans être superficiel : chaque morceau a sa petite énergie propre, et on ressort de l’écoute avec le sourire et l’impression d’avoir partagé un moment spontané.
+
+**À écouter en priorité** :  
+- **Knock Knock** → ouverture joyeuse et entraînante, parfaite pour se mettre dans l’ambiance  
+- **Cool Aid and Frozen Pizza** → vibe détendue et mélodique, un morceau qui capture l’essence de l’album
+
+(https://open.spotify.com/intl-fr/album/1jzqEyjugAp9iLtRsj9LZg)
 
 ---
 
