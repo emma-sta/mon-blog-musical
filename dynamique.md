@@ -35,7 +35,7 @@ Ce qui me marque ici, c’est cette dualité constante : d’un côté des titre
 - **Nuevayol** → puissant et énergique, un concentré de vibe urbaine  
 - **La Mudanza** → plus introspectif, empreint de nostalgie et de douceur  
 
-(https://open.spotify.com/intl-fr/album/5K79FLRUCSysQnVESLcTdb)
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/5K79FLRUCSysQnVESLcTdb)
 ---
 
 ## To Pimp a Butterfly – Kendrick Lamar
@@ -51,7 +51,7 @@ Ce que j’aime particulièrement ici, c’est la façon dont Kendrick réussit 
 - **Wesley's Theory** → ouverture puissante et funky qui donne le ton pour tout l’album  
 - **King Kunta** → groove irrésistible, mélange de funk et de hip-hop, parfait pour ressentir l’énergie de l’album
 
-(https://open.spotify.com/intl-fr/album/7ycBtnsMtyVbbwTfJwRjSP)
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/7ycBtnsMtyVbbwTfJwRjSP)
 
 ---
 
@@ -68,7 +68,7 @@ Ce que j’aime dans cet album, c’est sa capacité à transmettre de la bonne 
 - **Knock Knock** → ouverture joyeuse et entraînante, parfaite pour se mettre dans l’ambiance  
 - **Cool Aid and Frozen Pizza** → vibe détendue et mélodique, un morceau qui capture l’essence de l’album
 
-(https://open.spotify.com/intl-fr/album/1jzqEyjugAp9iLtRsj9LZg)
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/1jzqEyjugAp9iLtRsj9LZg)
 
 ---
 
@@ -83,7 +83,7 @@ Ce qui me touche particulièrement dans cet album, c'est la manière dont Théod
 - **DO U WANNA ?** → un morceau énergique et entraînant, parfait pour se mettre en mouvement
 - **LES OISEAUX RARES (feat. Juliette Armanet)** → une collaboration surprenante, alliant la voix intense de Théodora à celle plus douce de Juliette Armanet, créant une ambiance unique et envoûtante
 
-(https://open.spotify.com/intl-fr/album/5kULRFcbbkP6NHNBpi6T6p) 
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/5kULRFcbbkP6NHNBpi6T6p) 
 ---
 
 ## Nightcall – Kavinsky
@@ -94,7 +94,7 @@ La production rappelle les bandes originales des films des années 80, avec des 
 
 Ce que j’aime dans *Nightcall*, c’est cette capacité à créer un univers entier en quelques minutes : chaque note, chaque synthé, chaque respiration vocale contribue à une immersion totale dans un paysage sonore nocturne et électrique.  
 
-(https://open.spotify.com/intl-fr/track/0U0ldCRmgCqhVvD6ksG63j)
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/track/0U0ldCRmgCqhVvD6ksG63j)
 
 ---
 
@@ -108,6 +108,6 @@ Il est également connu pour son utilisation mémorable dans le film *Fight Club
 
 Ce que j’aime ici, c’est la tension subtile entre tranquillité et chaos, et la façon dont chaque note semble raconter une histoire, laissant l’auditeur à la fois charmé et légèrement déstabilisé.  
 
-(https://open.spotify.com/intl-fr/track/0KzAbK6nItSqNh8q70tb0K) 
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/track/0KzAbK6nItSqNh8q70tb0K) 
 
 [⬅ Retour à l’accueil](index.md)
