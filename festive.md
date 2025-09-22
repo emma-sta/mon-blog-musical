@@ -18,11 +18,13 @@
 
 [Accueil](index.md) | [Chill](chill.md) | [Dynamique](dynamique.md) | [Festif](festive.md)
 
-# Festive & Conviviale 🎉
+# Festive 🎉
 
-Cette ambiance est parfaite pour profiter de bons moments entre amis 
-ou pour créer une atmosphère conviviale et joyeuse.  
-Des morceaux entraînants et des albums qui donnent envie de sourire et de partager de la bonne humeur.
+La vibe festive, c’est celle qui te met direct dans l’ambiance, qui te donne envie de te lever, de bouger, ou de lever un verre avec des amis.  
+Ces albums et morceaux ne sont pas seulement là pour faire du bruit : ils créent une atmosphère, un moment à partager, qu’on soit seul ou à plusieurs. On ressent l’énergie, l’euphorie, mais aussi la chaleur humaine qui accompagne chaque note.  
+
+Pas besoin d’être en soirée pour en profiter — ça peut être en cuisine à préparer un dîner, dans ta chambre à te laisser emporter, ou en voiture sur la route. L’important, c’est que la musique te donne envie de sourire, de chanter ou de danser, sans réfléchir.  
+Ces albums ont tous cette capacité à capter l’instant et à le rendre mémorable, avec des sons qui s’impriment et une énergie qui reste longtemps après l’écoute.
 
 ## S&M - Rihanna
 ![S&M - Rihanna](image/s&m.jpg)
