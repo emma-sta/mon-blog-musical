@@ -38,10 +38,20 @@ Ce qui me marque ici, c’est cette dualité constante : d’un côté des titre
 (https://open.spotify.com/intl-fr/album/5K79FLRUCSysQnVESLcTdb)
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Nom du titre](image/kendrick.jpg)
+## To Pimp a Butterfly – Kendrick Lamar
+![To Pimp a Butterfly – Kendrick Lamar](image/kendrick.jpg)
 
-Petit commentaire sur le morceau et son effet énergisant.
+*To Pimp a Butterfly* est un album ambitieux et puissant qui mélange hip-hop, jazz, funk et soul avec une intelligence et une profondeur rares.  
+L’ambiance est dense, parfois intense, toujours engagée : Kendrick explore des thèmes sociaux et personnels, de l’injustice raciale à la pression de la célébrité, en passant par l’introspection et la quête de soi.  
+La production est riche et inventive, les arrangements sont sophistiqués, et chaque morceau apporte quelque chose de nouveau, donnant à l’album une fluidité qui le rend fascinant à écouter du début à la fin.  
+
+Ce que j’aime particulièrement ici, c’est la façon dont Kendrick réussit à combiner groove et réflexion, énergie et émotion brute, dans un équilibre qui captive et transporte l’auditeur.
+
+**À écouter en priorité** :  
+- **Wesley's Theory** → ouverture puissante et funky qui donne le ton pour tout l’album  
+- **King Kunta** → groove irrésistible, mélange de funk et de hip-hop, parfait pour ressentir l’énergie de l’album
+
+(https://open.spotify.com/intl-fr/album/7ycBtnsMtyVbbwTfJwRjSP)
 
 ---
 
