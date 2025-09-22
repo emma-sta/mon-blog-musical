@@ -38,7 +38,7 @@ Ce qui me plaît particulièrement chez Billie, c’est **la douceur de sa voix*
 - **Birds of a Feather** → doux, aérien, parfait pour se laisser emporter par la voix et l’atmosphère  
 - **Wildflower** → plus intense, avec des passages émotionnels puissants qui contrastent avec la délicatesse de sa voix
 
-
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/7aJuG4TFXa2hmE4z1yxc3n)
 
 ---
 
@@ -57,6 +57,8 @@ Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble rac
 - **Obsession Nonchalante** → atmosphère planante et captivante, idéale pour se laisser flotter  
 - **Mes Rêves** → mélodies douces et textures hypnotiques, parfaites pour rêver un peu
 
+
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/2yRG15GdCZMQte1m6ug5t1) 
 
 
 ---
@@ -77,6 +79,9 @@ Ce que j’aime dans cet album, c’est la capacité de SZA à transmettre des �
 - **Snooze** → murmure confiant et délicat, qui enveloppe tout en douceur  
 - **Kill Bill** → intensité et tension maîtrisées, avec une voix qui porte à la fois colère et vulnérabilité
 
+
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/07w0rG5TETcyihsEIZR3qG)
+
 ---
 
 ## Camp – Childish Gambino
@@ -92,6 +97,7 @@ Ce que j’aime particulièrement dans *Camp*, c’est la capacité de Childish 
 **Mon morceau préféré :**  
 - **Les** → un mélange de groove et de réflexion, où la voix et les rythmes s’entrelacent parfaitement, donnant à ce titre une énergie à la fois douce et captivante
 
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/5PtkofxPlrw8z3Sy2fj0V3)
 
 ---
 
@@ -110,6 +116,8 @@ Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble rac
 - **Sweet** → mélodie flottante et mélancolique, un vrai cocon sonore
 
 
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/5chTLnnxlxQVAgEv6YbEBe)
+
 ---
 
 ## Blonde – Frank Ocean
@@ -126,5 +134,8 @@ Ce que j’aime dans *Blonde*, c’est cette capacité à mélanger fragilité e
 - **Ivy** → une mélodie poignante, douce et nostalgique, qui capture parfaitement l’introspection de l’album  
 - **Pink + White** → aérien et lumineux, avec des harmonies qui flottent et apportent une chaleur subtile  
 - **White Ferrari** → minimaliste et contemplatif, une vraie immersion dans l’intimité de l’album
+
+[Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/3mH6qwIy9crq0I9YQbOuDf)
+
 
 [⬅ Retour à l’accueil](index.md)
