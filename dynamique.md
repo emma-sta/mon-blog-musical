@@ -86,16 +86,28 @@ Ce qui me touche particulièrement dans cet album, c'est la manière dont Théod
 (https://open.spotify.com/intl-fr/album/5kULRFcbbkP6NHNBpi6T6p) 
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/kavinsky.jpg)
+## Nightcall – Kavinsky
+![Nightcall – Kavinsky](image/kavinsky.jpg)
 
-Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+*Nightcall* est un morceau emblématique de Kavinsky, qui mélange synthwave rétro et atmosphères nocturnes sombres.  
+La production rappelle les bandes originales des films des années 80, avec des synthés hypnotiques et un rythme lent mais captivant. L’ambiance est à la fois mystérieuse et envoûtante, parfaite pour se plonger dans un mood contemplatif mais avec une énergie sous-jacente.  
+
+Ce que j’aime dans *Nightcall*, c’est cette capacité à créer un univers entier en quelques minutes : chaque note, chaque synthé, chaque respiration vocale contribue à une immersion totale dans un paysage sonore nocturne et électrique.  
+
+(https://open.spotify.com/intl-fr/track/0U0ldCRmgCqhVvD6ksG63j)
 
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/pixies.jpg)
+## Where's My Mind – Pixies
+![Where's My Mind – Pixies](image/pixies.jpg)
 
-Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+*Where's My Mind* est un morceau emblématique des Pixies, oscillant entre calme hypnotique et explosions de guitare surprenantes.  
+La voix de Black Francis, presque détachée, combinée aux guitares abrasives et à la basse profonde, crée une atmosphère unique : à la fois planante et intense, qui reste en tête longtemps après l’écoute.  
+Le morceau explore le désordre intérieur et la confusion mentale, avec une mélodie simple mais profondément marquante, qui en fait un classique intemporel du rock alternatif.  
+Il est également connu pour son utilisation mémorable dans le film *Fight Club*, qui a contribué à renforcer son aura et sa puissance émotionnelle.
+
+Ce que j’aime ici, c’est la tension subtile entre tranquillité et chaos, et la façon dont chaque note semble raconter une histoire, laissant l’auditeur à la fois charmé et légèrement déstabilisé.  
+
+(https://open.spotify.com/intl-fr/track/0KzAbK6nItSqNh8q70tb0K) 
 
 [⬅ Retour à l’accueil](index.md)
