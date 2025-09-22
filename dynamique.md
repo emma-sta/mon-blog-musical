@@ -30,8 +30,8 @@ Avec *Debí Tirar Más Fotos*, Bad Bunny explore un versant plus personnel et r�
 Ce qui me marque ici, c’est cette dualité constante : d’un côté des titres explosifs et entraînants, de l’autre des morceaux plus intimes, qui donnent presque l’impression de feuilleter un album souvenir. Le projet sonne comme un hommage à la mémoire, à l’importance de capturer les moments avant qu’ils s’effacent.
 
 À écouter en priorité :
-Nuevayol → puissant et énergique, un concentré de vibe urbaine
-La Mudanza → plus introspectif, empreint de nostalgie et de douceur
+**Nuevayol** → puissant et énergique, un concentré de vibe urbaine
+**La Mudanza** → plus introspectif, empreint de nostalgie et de douceur
 
 ---
 
