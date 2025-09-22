@@ -72,11 +72,18 @@ Ce que j’aime dans cet album, c’est sa capacité à transmettre de la bonne 
 
 ---
 
-## Titre : "Nom du titre" - Artiste
-![Just Dance - Lady Gaga](image/tdha.jpg)
+## MEGA BBL – Théodora
+![MEGA BBL – Théodora](image/tdha.jpg)
 
-Petit commentaire sur le morceau et l’atmosphère qu’il crée.
+Avec *MEGA BBL*, Théodora livre un album audacieux et éclectique, fusionnant hip-hop, pop, afrobeat et influences électroniques. L'ambiance oscille entre énergie brute et moments plus introspectifs, créant une atmosphère unique et captivante. Les thèmes abordent la féminité, la puissance personnelle, l'amour et les défis de la célébrité, le tout avec une touche de provocation et d'humour.
 
+Ce qui me touche particulièrement dans cet album, c'est la manière dont Théodora parvient à mêler des sonorités variées tout en conservant une cohérence artistique forte. Chaque morceau semble une exploration de son univers, riche et complexe.
+
+**À écouter en priorité** :
+- **DO U WANNA ?** → un morceau énergique et entraînant, parfait pour se mettre en mouvement
+- **LES OISEAUX RARES (feat. Juliette Armanet)** → une collaboration surprenante, alliant la voix intense de Théodora à celle plus douce de Juliette Armanet, créant une ambiance unique et envoûtante
+
+(https://open.spotify.com/intl-fr/album/5kULRFcbbkP6NHNBpi6T6p) 
 ---
 
 ## Titre : "Nom du titre" - Artiste
