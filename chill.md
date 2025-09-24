@@ -20,11 +20,13 @@
 
 # 🌙 Chill
 
+<br>
 
 >Imagine-toi un après-midi tranquille, allongé·e sur ton canapé ou installé·e près de la fenêtre, un café ou un thé à la main.  
 >Le temps semble s’étirer, dehors le monde continue sa course mais à l’intérieur tout est calme.  
 >C’est le moment parfait pour se laisser porter par des sons doux, introspectifs, qui invitent à ralentir et à savourer l’instant.
 
+<br>
 
 ## Hit Me Hard and Soft – Billie Eilish
 ![Hit Me Hard and Soft – Billie Eilish](image/eilish.jpg)
