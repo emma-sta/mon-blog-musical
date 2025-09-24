@@ -24,9 +24,9 @@
 
 <br>
 
->Ici, on change de rythme. On quitte le flottement tranquille pour quelque chose de plus vivant, plus percutant. La vibe >dynamique, c’est celle qui te donne envie de bouger, de t’activer, ou simplement d’allumer la musique un peu plus fort pour te >laisser emporter.
+>Ici, on change de rythme. On quitte le flottement tranquille pour quelque chose de plus vivant, plus percutant. La vibe dynamique, c’est celle qui te donne envie de bouger, de t’activer, ou simplement d’allumer la musique un peu plus fort pour te laisser emporter.
 
->Pas besoin d’être sur un dancefloor pour la ressentir — ça peut être en marchant vite dans la rue, en bossant avec >concentration, ou juste quand tu veux une bande-son qui te pousse vers l’avant. Ces albums ont en commun une énergie qui >accroche, des sons qui s’impriment, et une intensité qui garde éveillé.
+>Pas besoin d’être sur un dancefloor pour la ressentir — ça peut être en marchant vite dans la rue, en bossant avec concentration, ou juste quand tu veux une bande-son qui te pousse vers l’avant. Ces albums ont en commun une énergie qui accroche, des sons qui s’impriment, et une intensité qui garde éveillé.
 
 <br>
 
