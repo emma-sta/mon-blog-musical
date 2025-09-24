@@ -29,6 +29,7 @@
 <br>
 
 ## Hit Me Hard and Soft – Billie Eilish
+<br>
 ![Hit Me Hard and Soft – Billie Eilish](image/eilish.jpg)
 
 <br>
@@ -53,6 +54,7 @@ Ce qui me plaît particulièrement chez Billie, c’est **la douceur de sa voix*
 <br>
 
 ## Magazine – Dali
+<br>
 ![Magazine – Dali](image/dali.jpg)
 
 <br>
@@ -78,6 +80,7 @@ Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble rac
 <br>
 
 ## SOS – SZA
+<br>
 ![SOS – SZA](image/sza.jpg)
 
 <br>
@@ -104,6 +107,7 @@ Ce que j’aime dans cet album, c’est la capacité de SZA à transmettre des �
 <br>
 
 ## Camp – Childish Gambino
+<br>
 ![Camp – Childish Gambino](image/gambino.jpg)
 
 <br>
@@ -129,6 +133,7 @@ Ce que j’aime particulièrement dans *Camp*, c’est la capacité de Childish 
 <br>
 
 ## Cigarettes After Sex – Cigarettes After Sex
+<br>
 ![Cigarettes After Sex – Cigarettes After Sex](image/cas.png)
 
 <br>
@@ -155,6 +160,7 @@ Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble rac
 <br>
 
 ## Blonde – Frank Ocean
+<br>
 ![Blonde – Frank Ocean](image/frankocean.jpg)
 
 <br>
@@ -176,7 +182,5 @@ Ce que j’aime dans *Blonde*, c’est cette capacité à mélanger fragilité e
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/3mH6qwIy9crq0I9YQbOuDf)
 
 <br>
-<br>
-
 
 [⬅ Retour à l’accueil](index.md)
