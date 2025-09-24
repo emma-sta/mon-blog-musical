@@ -31,10 +31,14 @@
 ## Hit Me Hard and Soft – Billie Eilish
 ![Hit Me Hard and Soft – Billie Eilish](image/eilish.jpg)
 
+<br>
+
 Cet album explore une palette de sons très contrastée, allant de morceaux intimistes et minimalistes à des passages plus puissants et émotionnellement chargés.  
 Les thèmes principaux tournent autour de l’introspection, des relations complexes et de l’expression des émotions brutes.  
 
 Ce qui me plaît particulièrement chez Billie, c’est **la douceur de sa voix**, capable de transmettre une grande fragilité, et en même temps **l’intensité de la musique**, qui peut passer d’un murmure à une explosion émotionnelle en un instant. Cette combinaison rend l’écoute à la fois apaisante et captivante.  
+
+<br>
 
 ### **À écouter en priorité** :  
 - **Birds of a Feather** → doux, aérien, parfait pour se laisser emporter par la voix et l’atmosphère  
@@ -42,16 +46,24 @@ Ce qui me plaît particulièrement chez Billie, c’est **la douceur de sa voix*
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/7aJuG4TFXa2hmE4z1yxc3n)
 
+<br>
+
 ---
+
+<br>
 
 ## Magazine – Dali
 ![Magazine – Dali](image/dali.jpg)
+
+<br>
 
 *Magazine* est un album aux textures riches et planantes, mélangeant influences électroniques et expérimentales.  
 L’ambiance générale est flottante et hypnotique, avec des couches sonores qui se superposent pour créer un univers immersif.  
 Les thèmes tournent autour de l’évasion, de l’imaginaire et de la rêverie, avec un sentiment constant de mouvement et de liberté intérieure.  
 
-Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble raconter une histoire sans paroles parfois, ou transporter dans un monde presque cinématographique, où chaque son trouve sa place dans l’espace.  
+Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble raconter une histoire sans paroles parfois, ou transporter dans un monde presque cinématographique, où chaque son trouve sa place dans l’espace. 
+
+<br>
 
 ### **À écouter en priorité** :  
 - **Obsession Nonchalante** → atmosphère planante et captivante, idéale pour se laisser flotter  
@@ -59,10 +71,16 @@ Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble rac
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/2yRG15GdCZMQte1m6ug5t1) 
 
+<br>
+
 ---
+
+<br>
 
 ## SOS – SZA
 ![SOS – SZA](image/sza.jpg)
+
+<br>
 
 *SOS* est un album de R&B moderne et intimiste, où la voix de SZA est au centre et enveloppe chaque morceau.  
 L’album explore l’amour, la vulnérabilité, le doute et la quête de soi, avec une honnêteté brute et touchante.  
@@ -71,16 +89,24 @@ Chaque morceau navigue entre douceur et tension, introspection et passages plus 
 
 Ce que j’aime dans cet album, c’est la capacité de SZA à transmettre des émotions complexes avec une fluidité incroyable : on ressent à la fois la fragilité, la force et la sensibilité de chaque morceau.
 
+<br>
+
 ### **Mes morceaux préférés :**  
 - **Snooze** → murmure confiant et délicat, qui enveloppe tout en douceur  
 - **Kill Bill** → intensité et tension maîtrisées, avec une voix qui porte à la fois colère et vulnérabilité
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/07w0rG5TETcyihsEIZR3qG)
 
+<br>
+
 ---
+
+<br>
 
 ## Camp – Childish Gambino
 ![Camp – Childish Gambino](image/gambino.jpg)
+
+<br>
 
 *Camp* est un album à la croisée du hip-hop, du R&B et de la soul, qui mélange énergie et introspection.  
 Les morceaux alternent entre passages rythmés et moments plus calmes, avec des textes souvent narratifs, parfois humoristiques, parfois sérieux.  
@@ -89,15 +115,23 @@ La production est variée mais cohérente, et l’ensemble dégage une sensation
 
 Ce que j’aime particulièrement dans *Camp*, c’est la capacité de Childish Gambino à créer un univers à la fois personnel et universel, où chaque morceau raconte quelque chose, tout en gardant un côté ludique et surprenant.
 
+<br>
+
 ### **Mon morceau préféré :**  
 - **Les** → un mélange de groove et de réflexion, où la voix et les rythmes s’entrelacent parfaitement, donnant à ce titre une énergie à la fois douce et captivante
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/5PtkofxPlrw8z3Sy2fj0V3)
 
+<br>
+
 ---
+
+<br>
 
 ## Cigarettes After Sex – Cigarettes After Sex
 ![Cigarettes After Sex – Cigarettes After Sex](image/cas.png)
+
+<br>
 
 L’album éponyme de *Cigarettes After Sex* est un voyage doux et planant, où chaque morceau semble envelopper l’auditeur dans une atmosphère de rêve nocturne.  
 Les sons sont minimalistes et vaporeux, avec des guitares délicates et une production intimiste qui met la voix fragile au premier plan.  
@@ -106,16 +140,24 @@ L’ambiance générale est lente et contemplative, parfaite pour les instants o
 
 Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble raconter une histoire personnelle mais universelle, avec une voix qui devient presque un instrument supplémentaire, douce et hypnotique.
 
+<br>
+
 ### **Mes morceaux préférés :**  
 - **K.** → atmosphère délicate et rêveuse, qui enveloppe tout en subtilité  
 - **Sweet** → mélodie flottante et mélancolique, un vrai cocon sonore
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/5chTLnnxlxQVAgEv6YbEBe)
 
+<br>
+
 ---
+
+<br>
 
 ## Blonde – Frank Ocean
 ![Blonde – Frank Ocean](image/frankocean.jpg)
+
+<br>
 
 *Blonde* est un album introspectif et aérien, où chaque morceau semble flotter dans un espace émotionnel vaste et délicat.  
 L’album explore des thèmes comme l’amour, la solitude, la mémoire et la construction de soi, souvent à travers des récits fragmentés et poétiques.  
@@ -124,12 +166,17 @@ Chaque chanson semble créer une atmosphère unique, et l’ensemble forme un vo
 
 Ce que j’aime dans *Blonde*, c’est cette capacité à mélanger fragilité et élégance, à raconter des histoires qui résonnent longtemps après l’écoute, avec des arrangements qui donnent envie de se perdre dans chaque détail.
 
+<br>
+
 ### **Mes morceaux préférés :**  
 - **Ivy** → une mélodie poignante, douce et nostalgique, qui capture parfaitement l’introspection de l’album  
 - **Pink + White** → aérien et lumineux, avec des harmonies qui flottent et apportent une chaleur subtile  
 - **White Ferrari** → minimaliste et contemplatif, une vraie immersion dans l’intimité de l’album
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/3mH6qwIy9crq0I9YQbOuDf)
+
+<br>
+<br>
 
 
 [⬅ Retour à l’accueil](index.md)
