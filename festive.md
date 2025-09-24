@@ -76,7 +76,7 @@ Dès les premières notes, Just Dance impose une évidence : danser. Sorti à un
 
 <br>
 
->Avec son mélange de soul vintage et d’énergie pop moderne, Beggin est un titre qui a su traverser le temps. Tout le monde connaît son refrain, et c’est précisément ce qui en fait un classique des moments collectifs. Il ne demande rien de plus qu’un groupe de personnes prêtes à chanter ensemble, sans réfléchir. Sa force est de rester simple, immédiat, festif, mais toujours efficace.
+Avec son mélange de soul vintage et d’énergie pop moderne, Beggin est un titre qui a su traverser le temps. Tout le monde connaît son refrain, et c’est précisément ce qui en fait un classique des moments collectifs. Il ne demande rien de plus qu’un groupe de personnes prêtes à chanter ensemble, sans réfléchir. Sa force est de rester simple, immédiat, festif, mais toujours efficace.
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/track/1XyL3J7eTTKnxRZAM3LqIT)
 
