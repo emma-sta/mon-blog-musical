@@ -36,6 +36,8 @@
 
 ![DeBÍ TiRAR MáS FOToS – Bad Bunny](image/bad.jpeg)
 
+<br>
+
 Avec *Debí Tirar Más Fotos*, Bad Bunny explore un versant plus personnel et réfléchi de son univers. L’album mêle ses racines porto-ricaines à des sonorités urbaines et modernes, entre reggaeton, house, salsa et touches électroniques. L’ambiance générale est teintée de nostalgie et de mélancolie, comme un retour aux sources, mais sans jamais perdre l’énergie qui le définit.  
 
 Ce qui me marque ici, c’est cette dualité constante : d’un côté des titres explosifs et entraînants, de l’autre des morceaux plus intimes, qui donnent presque l’impression de feuilleter un album souvenir. Le projet sonne comme un hommage à la mémoire, à l’importance de capturer les moments avant qu’ils s’effacent.  
@@ -137,6 +139,9 @@ Ce qui me touche particulièrement dans cet album, c'est la manière dont Théod
 <br>
 
 ## Nightcall – Kavinsky
+
+<br>
+
 ![Nightcall – Kavinsky](image/kavinsky.jpg)
 
 <br>
