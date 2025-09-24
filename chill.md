@@ -21,9 +21,9 @@
 # 🌙 Chill
 
 
-Imagine-toi un après-midi tranquille, allongé·e sur ton canapé ou installé·e près de la fenêtre, un café ou un thé à la main.  
-Le temps semble s’étirer, dehors le monde continue sa course mais à l’intérieur tout est calme.  
-C’est le moment parfait pour se laisser porter par des sons doux, introspectifs, qui invitent à ralentir et à savourer l’instant.
+>Imagine-toi un après-midi tranquille, allongé·e sur ton canapé ou installé·e près de la fenêtre, un café ou un thé à la main.  
+>Le temps semble s’étirer, dehors le monde continue sa course mais à l’intérieur tout est calme.  
+>C’est le moment parfait pour se laisser porter par des sons doux, introspectifs, qui invitent à ralentir et à savourer l’instant.
 
 
 ## Hit Me Hard and Soft – Billie Eilish
@@ -34,15 +34,13 @@ Les thèmes principaux tournent autour de l’introspection, des relations compl
 
 Ce qui me plaît particulièrement chez Billie, c’est **la douceur de sa voix**, capable de transmettre une grande fragilité, et en même temps **l’intensité de la musique**, qui peut passer d’un murmure à une explosion émotionnelle en un instant. Cette combinaison rend l’écoute à la fois apaisante et captivante.  
 
-**À écouter en priorité** :  
+### **À écouter en priorité** :  
 - **Birds of a Feather** → doux, aérien, parfait pour se laisser emporter par la voix et l’atmosphère  
 - **Wildflower** → plus intense, avec des passages émotionnels puissants qui contrastent avec la délicatesse de sa voix
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/7aJuG4TFXa2hmE4z1yxc3n)
 
 ---
-
-
 
 ## Magazine – Dali
 ![Magazine – Dali](image/dali.jpg)
@@ -53,17 +51,13 @@ Les thèmes tournent autour de l’évasion, de l’imaginaire et de la rêverie
 
 Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble raconter une histoire sans paroles parfois, ou transporter dans un monde presque cinématographique, où chaque son trouve sa place dans l’espace.  
 
-**À écouter en priorité** :  
+### **À écouter en priorité** :  
 - **Obsession Nonchalante** → atmosphère planante et captivante, idéale pour se laisser flotter  
 - **Mes Rêves** → mélodies douces et textures hypnotiques, parfaites pour rêver un peu
 
-
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/2yRG15GdCZMQte1m6ug5t1) 
 
-
 ---
-
-
 
 ## SOS – SZA
 ![SOS – SZA](image/sza.jpg)
@@ -75,10 +69,9 @@ Chaque morceau navigue entre douceur et tension, introspection et passages plus 
 
 Ce que j’aime dans cet album, c’est la capacité de SZA à transmettre des émotions complexes avec une fluidité incroyable : on ressent à la fois la fragilité, la force et la sensibilité de chaque morceau.
 
-**Mes morceaux préférés :**  
+### **Mes morceaux préférés :**  
 - **Snooze** → murmure confiant et délicat, qui enveloppe tout en douceur  
 - **Kill Bill** → intensité et tension maîtrisées, avec une voix qui porte à la fois colère et vulnérabilité
-
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/07w0rG5TETcyihsEIZR3qG)
 
@@ -94,7 +87,7 @@ La production est variée mais cohérente, et l’ensemble dégage une sensation
 
 Ce que j’aime particulièrement dans *Camp*, c’est la capacité de Childish Gambino à créer un univers à la fois personnel et universel, où chaque morceau raconte quelque chose, tout en gardant un côté ludique et surprenant.
 
-**Mon morceau préféré :**  
+### **Mon morceau préféré :**  
 - **Les** → un mélange de groove et de réflexion, où la voix et les rythmes s’entrelacent parfaitement, donnant à ce titre une énergie à la fois douce et captivante
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/5PtkofxPlrw8z3Sy2fj0V3)
@@ -111,10 +104,9 @@ L’ambiance générale est lente et contemplative, parfaite pour les instants o
 
 Ce que j’aime dans cet album, c’est la façon dont chaque morceau semble raconter une histoire personnelle mais universelle, avec une voix qui devient presque un instrument supplémentaire, douce et hypnotique.
 
-**Mes morceaux préférés :**  
+### **Mes morceaux préférés :**  
 - **K.** → atmosphère délicate et rêveuse, qui enveloppe tout en subtilité  
 - **Sweet** → mélodie flottante et mélancolique, un vrai cocon sonore
-
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/album/5chTLnnxlxQVAgEv6YbEBe)
 
@@ -130,7 +122,7 @@ Chaque chanson semble créer une atmosphère unique, et l’ensemble forme un vo
 
 Ce que j’aime dans *Blonde*, c’est cette capacité à mélanger fragilité et élégance, à raconter des histoires qui résonnent longtemps après l’écoute, avec des arrangements qui donnent envie de se perdre dans chaque détail.
 
-**Mes morceaux préférés :**  
+### **Mes morceaux préférés :**  
 - **Ivy** → une mélodie poignante, douce et nostalgique, qui capture parfaitement l’introspection de l’album  
 - **Pink + White** → aérien et lumineux, avec des harmonies qui flottent et apportent une chaleur subtile  
 - **White Ferrari** → minimaliste et contemplatif, une vraie immersion dans l’intimité de l’album
