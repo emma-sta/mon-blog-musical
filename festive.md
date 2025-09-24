@@ -40,7 +40,15 @@
 
 <br>
 
-Avec *S&M*, Rihanna livre un titre qui ne laisse personne indifférent. L’énergie est brute, assumée, et pensée pour être vécue fort, de préférence à volume maximum. En soirée, c’est typiquement le genre de morceau qui ne peut pas rester en arrière-plan : il attire tout de suite l’attention et transforme l’atmosphère. On chante, on danse, on joue le jeu. Plus qu’un simple morceau pop, c’est un déclencheur qui marque un moment précis, celui où la soirée bascule dans quelque chose de plus intense.
+## S&M – Rihanna
+
+<br>
+
+*S&M* est un morceau provocant et électrisant, qui mélange pop et dance avec un punch immédiat.  
+La production est saturée de basses puissantes et de synthés clairs, créant une ambiance à la fois audacieuse et effrontée.  
+Rihanna y joue avec les codes de la séduction et de la provocation, donnant au morceau un caractère joueur et irrévérencieux, parfait pour se mettre dans une énergie de fête instantanée.  
+
+Ce que j’aime ici, c’est la capacité du morceau à capturer l’attention dès la première note : c’est sensuel, fun, et impossible de rester immobile en l’écoutant.
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/track/0C4ejWmOTMv8vuYj85mf8m)
 
@@ -58,7 +66,15 @@ Avec *S&M*, Rihanna livre un titre qui ne laisse personne indifférent. L’éne
 
 <br>
 
-Dès les premières notes, Just Dance impose une évidence : danser. Sorti à une époque où Lady Gaga commençait à redéfinir la pop, ce morceau a gardé une puissance intacte. En soirée, il a un effet fédérateur immédiat. Même quand l’ambiance retombe, il suffit de l’entendre pour que les gens se lèvent, retrouvent le sourire, et repartent. Ce n’est pas seulement une chanson entraînante, c’est une invitation à lâcher prise, à oublier le reste pour profiter de l’instant.
+## Just Dance – Lady Gaga
+
+<br>
+
+*Just Dance* est un hymne pop-électro qui respire la fête et l’euphorie.  
+Le morceau est construit autour d’un beat entraînant et de synthés scintillants, avec un refrain accrocheur qui reste en tête instantanément.  
+Lady Gaga y déploie toute sa personnalité flamboyante, mêlant excitation, légèreté et énergie contagieuse. C’est un morceau qui capture parfaitement le chaos joyeux des premières heures d’une soirée ou d’une nuit pleine de promesses.  
+
+Ce que j’aime ici, c’est la manière dont chaque note te pousse à bouger et à chanter, avec une insouciance totale qui fait sourire dès la première écoute.
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/track/1dzQoRqT5ucxXVaAhTcT0J)
 
@@ -76,7 +92,15 @@ Dès les premières notes, Just Dance impose une évidence : danser. Sorti à un
 
 <br>
 
-Avec son mélange de soul vintage et d’énergie pop moderne, Beggin est un titre qui a su traverser le temps. Tout le monde connaît son refrain, et c’est précisément ce qui en fait un classique des moments collectifs. Il ne demande rien de plus qu’un groupe de personnes prêtes à chanter ensemble, sans réfléchir. Sa force est de rester simple, immédiat, festif, mais toujours efficace.
+## Beggin' – Madcon
+
+<br>
+
+*Beggin'* est un morceau explosif qui réinterprète le classique des Four Seasons avec un souffle moderne et dansant.  
+La basse est profonde, le beat énergique, et les refrains accrocheurs créent une tension qui donne immédiatement envie de bouger.  
+Le duo Madcon y ajoute une touche urbaine et funky qui rend le morceau à la fois nostalgique et irrésistiblement festif, parfait pour toute ambiance de danse.  
+
+Ce que j’aime dans *Beggin'*, c’est sa capacité à fusionner des influences rétro et contemporaines tout en gardant une énergie immédiate : un classique moderne qui fait lever le volume à chaque écoute.
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/track/1XyL3J7eTTKnxRZAM3LqIT)
 
@@ -94,7 +118,15 @@ Avec son mélange de soul vintage et d’énergie pop moderne, Beggin est un tit
 
 <br>
 
-Ici, c’est la carte nostalgie. Les Black Eyed Peas ont marqué toute une génération, et ce titre en particulier incarne leur côté lumineux et fédérateur. Dès que le refrain démarre, il provoque un élan collectif : on chante ensemble, presque automatiquement, avec cette impression de revenir quelques années en arrière. C’est un morceau qui ne se contente pas d’accompagner la fête : il crée un moment de partage simple, chaleureux et mémorable.
+## Just Can’t Get Enough – Black Eyed Peas
+
+<br>
+
+*Just Can’t Get Enough* est un morceau électro-pop énergique et lumineux, parfait pour une ambiance de fête immédiate.  
+Le beat est rapide et entraînant, les synthés brillants, et le refrain hyper accrocheur : impossible de ne pas taper du pied ou chanter en cœur.  
+Le groupe y déploie toute sa bonne humeur et son sens du spectacle, créant un morceau qui donne instantanément envie de danser et de se laisser emporter.  
+
+Ce que j’aime dans *Just Can’t Get Enough*, c’est son énergie communicative et sa capacité à faire sourire dès les premières secondes, sans jamais perdre le rythme ni l’enthousiasme.
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/track/3JA9Jsuxr4xgHXEawAdCp4)
 
@@ -112,7 +144,11 @@ Ici, c’est la carte nostalgie. Les Black Eyed Peas ont marqué toute une gén�
 
 <br>
 
-Ce morceau change un peu de registre, mais garde une place essentielle dans une ambiance festive. Plus hypnotique et sensuel que les autres, il apporte un contraste intéressant dans une playlist. Les basses profondes, le rythme entraînant et les voix planantes en font un titre parfait pour passer d’une énergie légère et conviviale à quelque chose de plus immersif. C’est une montée en intensité qui garde la fête vivante, tout en la rendant plus profonde.
+*How Deep Is Your Love* est un morceau house élégant et envoûtant, qui combine énergie dancefloor et sensualité.  
+Le beat est profond et régulier, les synthés subtils et les voix aériennes créent une atmosphère immersive, à la fois captivante et élégante.  
+C’est le genre de morceau qui fonctionne autant pour danser que pour se laisser transporter dans une vibe plus posée, tout en gardant cette tension électrisante qui fait bouger.  
+
+Ce que j’aime ici, c’est l’équilibre parfait entre groove et émotion : il y a une énergie constante qui accroche, mais aussi une sophistication dans la production qui rend l’écoute captivante.
 
 [Écouter sur Spotify ➡️](https://open.spotify.com/intl-fr/track/22mek4IiqubGD9ctzxc69s)
 
