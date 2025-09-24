@@ -116,7 +116,7 @@ Ce que j’aime dans cet album, c’est sa capacité à transmettre de la bonne 
 
 <br>
 
-![MEGA BBL – Théodora](image/tdha.jpg)
+![MEGA BBL – Théodora](image/mgbbl.jpg)
 
 <br>
 
