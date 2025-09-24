@@ -16,10 +16,6 @@
   }
 </style>
 
-.page-title {
-  display: none;
-}
-
 [Accueil](index.md) | [Chill](chill.md) | [Dynamique](dynamique.md) | [Festif](festive.md)
 
 # 🌙 Chill
